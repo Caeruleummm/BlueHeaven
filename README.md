@@ -1,4 +1,4 @@
-## BlueHeaven: Automation & Infrastructure as Code - ISP
+# BlueHeaven: Automation & Infrastructure as Code - ISP
 
 BlueHeaven es la continuacion del proyecto OuterHeaven, su finalidad es abarcar y mejorar ciertos aspectos de IT de mejor manera y mas avanzada
 
